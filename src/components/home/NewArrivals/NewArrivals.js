@@ -98,9 +98,9 @@ const NewArrivals = () => {
           <Product
             _id="100005"
             img={newArrTwo}
-            productName="Funny toys for babies"
-            price="60.00"
-            color="Mixed"
+            productName="Smart Watch"
+            price="2500.00"
+            color="Blue"
             badge={false}
             des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
           />
