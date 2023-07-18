@@ -10,24 +10,24 @@ import {
 
 const BestSellers = () => {
   return (
-    <div className="w-full pb-20">
+    <div className="object-cover w-full pb-20">
       <Heading heading="Our Bestsellers" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-3 xl:grid-cols-4 gap-10">
         <Product
           _id="1011"
           img={bestSellerOne}
-          productName="Flower Base"
+          productName="Milton Bottle"
           price="35.00"
-          color="Blank and White"
+          color="Silver"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
         <Product
           _id="1012"
           img={bestSellerTwo}
-          productName="New Backpack"
+          productName="Smart Watch"
           price="180.00"
-          color="Gray"
+          color="Rose Gold"
           badge={false}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
@@ -45,7 +45,7 @@ const BestSellers = () => {
           img={bestSellerFour}
           productName="Travel Bag"
           price="220.00"
-          color="Black"
+          color="Black and Blue"
           badge={false}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
