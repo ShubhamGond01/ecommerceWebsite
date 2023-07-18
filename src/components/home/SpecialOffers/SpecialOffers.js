@@ -17,17 +17,17 @@ const SpecialOffers = () => {
           _id="1101"
           img={spfOne}
           productName="Cap for Boys"
-          price="35.00"
-          color="Blank and White"
+          price="150.00"
+          color="White"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
         <Product
           _id="1102"
           img={spfTwo}
-          productName="Tea Table"
-          price="180.00"
-          color="Gray"
+          productName="Jacket"
+          price="1800.00"
+          color="Black"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
@@ -35,8 +35,8 @@ const SpecialOffers = () => {
           _id="1103"
           img={spfThree}
           productName="Headphones"
-          price="25.00"
-          color="Mixed"
+          price="1500.00"
+          color="Black"
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
