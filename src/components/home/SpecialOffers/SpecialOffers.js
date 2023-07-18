@@ -16,15 +16,9 @@ const SpecialOffers = () => {
         <Product
           _id="1101"
           img={spfOne}
-<<<<<<< HEAD
-          productName="Jacket"
-          price="3500.00"
-          color="Blank and White"
-=======
           productName="Cap for Boys"
           price="150.00"
           color="White"
->>>>>>> 5b1c2d5c707a9eef537837475b9eb7787d7af3ea
           badge={true}
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
         />
