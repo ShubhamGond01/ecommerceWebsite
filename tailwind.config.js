@@ -21,8 +21,8 @@ module.exports = {
         titleFont: ["Poppins", "sans-serif"],
       },
       colors: {
-        primeColor: "#262626",
-        lightText: "#6D6D6D",
+        primeColor: "#2F539B",
+        lightText: "#52595D",
       },
       boxShadow: {
         testShadow: "0px 0px 54px -13px rgba(0,0,0,0.7)",

@@ -20,7 +20,7 @@ const BestSellers = () => {
           price="35.00"
           color="Silver"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1012"
@@ -29,7 +29,7 @@ const BestSellers = () => {
           price="180.00"
           color="Rose Gold"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1013"
@@ -38,7 +38,7 @@ const BestSellers = () => {
           price="25.00"
           color="Mixed"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1014"
@@ -47,7 +47,7 @@ const BestSellers = () => {
           price="220.00"
           color="Black and Blue"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
       </div>
     </div>

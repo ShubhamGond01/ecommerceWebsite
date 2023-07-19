@@ -58,7 +58,7 @@ const NewArrivals = () => {
             price="5000.00"
             color="Brown"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
           />
         </div>
         <div className="px-2">
@@ -69,7 +69,7 @@ const NewArrivals = () => {
             price="2500.00"
             color="Blue"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
           />
         </div>
         <div className="px-2">
@@ -80,7 +80,7 @@ const NewArrivals = () => {
             price="800.00"
             color="Blue"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
           />
         </div>
         <div className="px-2">
@@ -91,7 +91,7 @@ const NewArrivals = () => {
             price="999.00"
             color="Mixed"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
           />
         </div>
         <div className="px-2">
@@ -102,7 +102,7 @@ const NewArrivals = () => {
             price="2500.00"
             color="Blue"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
           />
         </div>
       </Slider>
