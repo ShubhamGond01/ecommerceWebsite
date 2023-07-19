@@ -20,7 +20,7 @@ const SpecialOffers = () => {
           price="150.00"
           color="White"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1102"
@@ -29,7 +29,7 @@ const SpecialOffers = () => {
           price="1800.00"
           color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1103"
@@ -38,7 +38,7 @@ const SpecialOffers = () => {
           price="1500.00"
           color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
         <Product
           _id="1104"
@@ -47,7 +47,7 @@ const SpecialOffers = () => {
           price="220.00"
           color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam aut harum exercitationem non voluptatem illum eum dignissimos tempora! "
         />
       </div>
     </div>
