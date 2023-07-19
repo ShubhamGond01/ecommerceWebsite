@@ -14,9 +14,8 @@ const Journal = () => {
       <div className="pb-10">
         <h1 className="max-w-[600px] text-base text-lightText mb-2">
           <span className="text-primeColor font-semibold text-lg">ecom</span>{" "}
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo
-          reiciendis delectus vitae, aliquid sit iure dolorum commodi eum
-          numquam voluptate!
+          Aut maiores reprehenderit ut tenetur dolores sit aliquam numquam
+         aut harum exercitationem non voluptatem illum eum dignissimos tempora! 
         </h1>
         <Link to="/shop">
           <button className="w-52 h-10 bg-primeColor text-white hover:bg-black duration-300">
