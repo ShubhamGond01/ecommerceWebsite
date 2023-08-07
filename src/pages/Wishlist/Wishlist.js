@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import Breadcrumbs from "../../components/pageProps/Breadcrumbs";
-import { resetCart } from "../../redux/orebiSlice";
+import { resetWishlist } from "../../redux/orebiSlice";
 import { emptyCart } from "../../assets/images/index";
 import ItemCard2 from "./ItemCard2";
 
@@ -49,13 +49,13 @@ const Wishlist = () => {
           </div>
 
           <button
-            onClick={() => dispatch(resetCart())}
+            onClick={() => dispatch(resetWishlist())}
             className="py-2 px-10 bg-red-500 text-white font-semibold uppercase mb-4 hover:bg-red-700 duration-300"
           >
             Reset Wishlist
           </button>
 
-          {/* <div className="flex flex-col mdl:flex-row justify-between border py-4 px-4 items-center gap-2 mdl:gap-0">
+          <div className="flex flex-col mdl:flex-row justify-between border py-4 px-4 items-center gap-2 mdl:gap-0">
             <div className="flex items-center gap-4">
               <input
                 className="w-44 mdl:w-52 h-8 px-4 border text-primeColor text-sm outline-none border-gray-400"
@@ -99,7 +99,7 @@ const Wishlist = () => {
                 </Link>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
       ) : (
         <motion.div
